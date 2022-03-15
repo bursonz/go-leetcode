@@ -1,6 +1,6 @@
 package leetcode
 
-//2022-03-27,accept,4ms
+//2022-03-07,accept,4ms
 
 func twoSum(nums []int, target int) []int {
 	numMap := make(map[int]int)
